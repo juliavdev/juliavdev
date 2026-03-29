@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Me chamo Larissa Julia Vargas, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e trabalho na área há cerca de quatro anos. Tenho experiência na área de backend (.NET framework e .NET Core com C#), banco de dados SQL Server e Oracle Database e lowcode com Magic XPA. Além disso, me interesso por redes e infraestrutura no geral.
+#### Me chamo Julia Vargas, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e trabalho na área há cerca de quatro anos. Tenho experiência na área de backend (.NET framework e .NET Core com C#), banco de dados SQL Server e Oracle Database e lowcode com Magic XPA. Além disso, me interesso por redes e infraestrutura no geral.
 ---
 
 ### 🤖 Linguagens e Tecnologias
